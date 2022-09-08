@@ -1,6 +1,6 @@
 # AXIT-Website
 
-### A basic static website built with HTML,and CSS to practice more on how to use the float property 
+### A static website built with HTML,and CSS to practice more on how to use the float property 
 
 
 * You can watch a demo of this website:
